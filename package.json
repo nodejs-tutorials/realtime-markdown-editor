@@ -1,0 +1,29 @@
+{
+  "name": "realtime-markdown-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-tutorials/realtime-markdown-editor.git"
+  },
+  "author": "ducito",
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejs-tutorials/realtime-markdown-editor/issues"
+  },
+  "homepage": "https://github.com/nodejs-tutorials/realtime-markdown-editor#readme",
+  "dependencies": {
+    "ejs": "^2.3.3",
+    "express": "^4.13.3",
+    "redis": "^0.12.1",
+    "share": "^0.7.40"
+  }
+}
