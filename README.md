@@ -1,7 +1,6 @@
 # Realtime Markdown Editor
 
-On this tutorial, I'm using Redis to store data. You have to installed Redis unless it throws ```Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED
-```
+On this tutorial, I'm using Redis to store data. You have to installed Redis unless it throws ```Error: Redis connection to 127.0.0.1:6379 failed - connect ECONNREFUSED```
 
 
 ### Install redis using Homebrew
