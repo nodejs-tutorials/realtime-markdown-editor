@@ -12,8 +12,8 @@
   },
   "author": "ducito",
   "engines": {
-    "node": "0.10.x",
-    "npm": "1.3.x"
+    "node": "0.12.x",
+    "npm": "2.13.x"
   },
   "license": "ISC",
   "bugs": {
@@ -24,6 +24,6 @@
     "ejs": "^2.3.3",
     "express": "^4.13.3",
     "redis": "^0.12.1",
-    "share": "^0.7.40"
+    "share": "^0.6.3"
   }
 }
